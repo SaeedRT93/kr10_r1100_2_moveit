@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/saeed/vr_probe_project/devel/lib/python3/dist-packages",
+        "/home/saeed/ws_moveit/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/saeed/vr_probe_project/devel/lib/python3/dist-packages",
+        "/home/saeed/ws_moveit/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

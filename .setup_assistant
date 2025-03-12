@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: kr10_r1100_2_urdf
+    relative_path: urdf/kr10_r1100_2_urdf.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/kr10_r1100_2_urdf.srdf
+  CONFIG:
+    author_name: SaeedRT93
+    author_email: Saeed.ramezani-talabari@strath.ac.uk
+    generated_timestamp: 1741718322
